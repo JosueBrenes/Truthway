@@ -751,6 +751,49 @@ footer ul.quicklinks {
   line-height: 40px;
 }
 
+/* Social Buttons */
+
+.social-buttons {
+  display: inline-block;
+  position: relative;
+}
+
+.social-buttons .icon-instagram {
+  background-image: url("/img/instagram.png");
+  width: 50px;
+  height: 50px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 45%;
+  left: 24.6%;
+  transform: translate(-50%, -50%);
+}
+
+.social-buttons .icon-facebook {
+  background-image: url("/img/facebook.png");
+  width: 50px;
+  height: 50px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 45%;
+  left: 76.6%;
+  transform: translate(-50%, -50%);
+}
+
+.social-buttons .icon-youtube {
+  background-image: url("/img/youtube.png");
+  width: 50px;
+  height: 50px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 45%;
+  left: 76.6%;
+  transform: translate(-50%, -50%);
+}
+
 ul.social-buttons {
   margin-bottom: 0;
 }
