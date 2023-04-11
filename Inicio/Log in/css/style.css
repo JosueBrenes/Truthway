@@ -6,7 +6,7 @@ body {
   color: #ffffff; /* Color Sign up and Log in */
   background-color: #212121;
   overflow-x: hidden;
-  background-image: url("img/hero.jpg");
+  background-image: url("/img/hero.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;

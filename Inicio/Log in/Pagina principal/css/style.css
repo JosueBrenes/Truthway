@@ -259,7 +259,7 @@ header {
   text-align: center;
   color: #fff;
   background-attachment: scroll;
-  background-image: url(img/hero.jpg);
+  background-image: url(/img/hero.jpg);
   background-position: center center;
   background-repeat: none;
   -webkit-background-size: cover;
@@ -662,9 +662,13 @@ section h3.section-subheading {
 
 section#contact {
   background-color: #222;
-  background-image: url(img/worship.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
+  background-image: url(/img/hero.jpg);
+  background-position: center center;
+  background-repeat: none;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
 }
 
 section#contact .section-heading {
