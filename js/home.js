@@ -31,7 +31,7 @@ if (
   window.matchMedia &&
   window.matchMedia("(prefers-color-scheme: dark)").matches
 ) {
-  favicon.setAttribute("href", "/img/favicon-light.png");
+  favicon.setAttribute("href", "./img/favicon-light.png");
 } else {
-  favicon.setAttribute("href", "/img/favicon-dark.png");
+  favicon.setAttribute("href", "./img/favicon-dark.png");
 }
