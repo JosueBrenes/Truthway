@@ -1,0 +1,1 @@
+This repository has been created with the purpose of providing a structure and organization model for similar projects. All rights associated with the creation and use of this repository as a guide are fully valid. We encourage you to use this repository as a reference to understand best practices in project management and software development.
